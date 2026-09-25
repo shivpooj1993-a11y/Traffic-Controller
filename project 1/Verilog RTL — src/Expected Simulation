@@ -1,0 +1,16 @@
+Starting Smart Traffic Management System simulation...
+
+Time=0    NS GREEN
+Time=40   NS GREEN
+Time=80   NS YELLOW
+Time=90   ALL RED
+Time=100  EW GREEN
+Time=140  EW GREEN
+Time=180  EW YELLOW
+Time=190  ALL RED
+
+Traffic conditions changed.
+
+Time=200  NS GREEN
+...
+Simulation completed successfully.
